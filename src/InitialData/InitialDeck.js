@@ -6,13 +6,13 @@ const InitialDeck = [
   },
 
   {
-    id: 0,
+    id: 1,
     front: 'Does John Fruciante was on One Hot Minute?',
     back: 'No, it was Dave Navaro instead.'
   },
 
   {
-    id: 0,
+    id: 2,
     front: 'Who are the lead singers in Hungerstrike by Temple of the dog?',
     back: 'Chris Cornell and Eddie Vedder'
   },
